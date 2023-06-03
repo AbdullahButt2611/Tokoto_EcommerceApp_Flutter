@@ -1,0 +1,4 @@
+#Sat Jun 03 21:31:34 PKT 2023
+base.0=E\:\\Zip\\E-commerce-Complete-Flutter-UI-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
